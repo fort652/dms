@@ -1,5 +1,12 @@
 const songs = [
 	{
+		url: "/songs/lief-vi-iemand.mp3",
+		title:
+			"Lief Vi Iemand - Dieoutjiemusic",
+		cover:
+			"/lief-vi-iemand.png",
+	},
+	{
 		url: "/songs/uitwerk.mp3",
 		title:
 			"UITWERK - Dieoutjiemusic",
