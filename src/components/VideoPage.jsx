@@ -1,12 +1,12 @@
 // VideoPage.js
-import React from 'react';
-import VideoCard from './VideoCard';
+import React from "react";
+import VideoCard from "../data/videos";
 
 const VideoPage = () => {
   const videos = [
     {
-      title: 'Babalas',
-      url: '/videos/Babalas.mp4',
+      title: "Babalas",
+      url: "/videos/Babalas.mp4",
     },
   ];
 

@@ -1,11 +1,11 @@
-import MusicPlayer from '../components/MusicPlayer'
+import MusicPlayer from "../components/MusicPlayer";
 
 function Home() {
   return (
     <>
       <MusicPlayer />
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;
