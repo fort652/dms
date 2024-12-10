@@ -1,5 +1,10 @@
 const songs = [
   {
+    url: "/songs/impress.mp3",
+    title: "Impress - Dieoutjiemusic",
+    cover: "/coverArt/impress.png",
+  },
+  {
     url: "/songs/lief-vi-iemand.mp3",
     title: "Lief Vi Iemand - Dieoutjiemusic",
     cover: "/coverArt/lief-vi-iemand.png",
